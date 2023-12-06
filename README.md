@@ -6,7 +6,7 @@ I am passionate about building and automating personalizable products! I am curr
 
 I also love buidling affordable data solutions using open source resources.  I was a speaker at Open Up Summit and talked about Open Source Resources for US Stock Trading.
 
-I am one of the 2022 Taipei Women in Tech Honorees.  
+I am one of the <a href="https://medium.com/@taipeiwit/2022-taipei-women-in-tech-honorees-3fe84241e71b">2022 Taipei Women in Tech Honorees.</a>  
 
 <!--
 **lcindy/lcindy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
