@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I am Cindy Lin 👋
+
+I am an entrepreneurial and data driven leader who is capable of building innovative analytics products with limited resources. A forward-looking strategic leader and a quick adapter to new technology. A subject matter expert who proactively identifies complex business problems, develops data solutions and creates business values. 
+
+I am passionate about building and automating personalizable products! I am currently building personalizable investment products for the retail investors!
+
+I also love buidling affordable data solutions using open source resources.  I was a speaker at Open Up Summit and talked about Open Source Resources for US Stock Trading.
+
+I am one of the 2022 Taipei Women in Tech Honorees.  
 
 <!--
 **lcindy/lcindy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
